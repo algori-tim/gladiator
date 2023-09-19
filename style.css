@@ -1,0 +1,22 @@
+*{
+  padding:0;
+  margin:0;
+}
+canvas{
+  background-image: url(images/stadium_background.png); display: block; margin: 0 auto;
+  box-shadow: 10px 10px 60px black;
+}
+
+.centerBanner{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+.columns{
+  
+  background-image: url("images/columns.png");
+  background-position: center;
+  background-size: cover;
+}
