@@ -3,7 +3,7 @@
   margin:0;
 }
 canvas{
-  background-image: url(images/stadium_background.png); display: block; margin: 0 auto;
+  background-image: url('images/stadium_background.png'); display: block; margin: 0 auto;
   box-shadow: 10px 10px 60px black;
 }
 
