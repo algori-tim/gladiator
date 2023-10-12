@@ -2,10 +2,10 @@ var canvas = document.getElementById("myCanvas");
 var canvasContext = canvas.getContext("2d");
 
 var enemySprite = new Image();
-enemySprite.src = "images/enemySpriteSheet.png";
+enemySprite.src = "./images/enemySpriteSheet.png";
 
 var playerSpriteSheet = new Image();
-playerSpriteSheet.src = "images/playerSpriteSheet.png";
+playerSpriteSheet.src = "./images/playerSpriteSheet.png";
 
 var text = "";
 
