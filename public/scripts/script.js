@@ -117,7 +117,7 @@ function draw() {
       "You seem to have died... You have slain " + dummiesKilled + " warriors!"
     );
     playerObject.health = 1;
-    document.location.href = "index.html";
+    document.location.href = "/";
   }
 
   //DEBUG code
